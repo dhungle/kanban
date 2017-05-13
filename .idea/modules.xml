@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/board-api/board-api.iml" filepath="$PROJECT_DIR$/board-api/board-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/board-impl/board-impl.iml" filepath="$PROJECT_DIR$/board-impl/board-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra-config/cassandra-config.iml" filepath="$PROJECT_DIR$/cassandra-config/cassandra-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-test.iml" filepath="$PROJECT_DIR$/integration-tests/integration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanban.iml" filepath="$PROJECT_DIR$/kanban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-api/stream-api.iml" filepath="$PROJECT_DIR$/stream-api/stream-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-impl/stream-impl.iml" filepath="$PROJECT_DIR$/stream-impl/stream-impl.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardModule.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardEntity.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardCommand.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/TaskState.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/TaskEntity.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/TaskEvent.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardEvent.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardServiceImpl.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/BoardState.java
+/Users/duyhung/Desktop/kanban/board-impl/src/main/java/org/kanban/board/impl/TaskCommand.java

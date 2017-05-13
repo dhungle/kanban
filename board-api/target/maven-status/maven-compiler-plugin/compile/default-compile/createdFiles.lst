@@ -1,0 +1,5 @@
+org/kanban/board/api/BoardService.class
+org/kanban/board/api/Task.class
+org/kanban/board/api/Board$BoardStatus.class
+org/kanban/board/api/Board.class
+org/kanban/board/api/Task$TaskStatus.class

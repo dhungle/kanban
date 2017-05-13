@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/board-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cassandra-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/integration-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stream-impl" charset="UTF-8" />
+  </component>
+</project>

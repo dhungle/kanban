@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="board-api" />
+        <module name="board-impl" />
+        <module name="cassandra-config" />
+        <module name="integration-test" />
+        <module name="stream-api" />
+        <module name="stream-impl" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="board-api" target="1.8" />
+      <module name="board-impl" target="1.8" />
+      <module name="cassandra-config" target="1.8" />
+      <module name="integration-test" target="1.8" />
+      <module name="kanban" target="1.8" />
+      <module name="stream-api" target="1.8" />
+      <module name="stream-impl" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
